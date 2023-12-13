@@ -9,7 +9,7 @@ import (
 
 func Shred(filepath string) error {
 
-	// Check if 'path' is a valid Path that leads to an existing file
+	// Check if 'filepath' is a valid Path that leads to an existing file
 	fileInfo, error := os.Stat(filepath)
 	if os.IsNotExist(error) {
 		return error
