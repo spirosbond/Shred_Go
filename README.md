@@ -11,7 +11,7 @@ This technique can be useful for deleting confidential files and making it impos
 
 Possible use cases:
 
-- Secure file deletition of sensitive data
+- Secure file deletion of sensitive data
 - Data Sanitization before releasing resources (selling or disposing devices)
 - User Privacy Protection to ensure compliance with data polocies
 
